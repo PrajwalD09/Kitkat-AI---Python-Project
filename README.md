@@ -1,4 +1,4 @@
-# Kitkat-AI---Python-Project
+# Kitkat-AI - Python-Project
 <br>
 
 Welcome to the repository for our cutting-edge Python assistant that leverages speech recognition and OpenAI's GPT-3.5-turbo for dynamic natural language interaction.
