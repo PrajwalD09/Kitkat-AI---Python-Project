@@ -13,7 +13,7 @@ def chat(query):
     global chatStr
     # print(chatStr)
 
-    api_key = "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"
+    api_key = ""
     client = OpenAI(api_key=api_key)
 
     chatStr += f"Prajwal : {query}\nKitkat : "
